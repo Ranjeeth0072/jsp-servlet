@@ -1,0 +1,16 @@
+body {
+  background-color: lightgray;
+}
+.nav{
+	border: 1px solid black;
+     margin: 100px 300px 100px 300px;
+     padding:5px;
+ 
+}
+h1{
+	color:blue;
+}
+#hh{
+	color:red;
+	font-size:20px;
+}
